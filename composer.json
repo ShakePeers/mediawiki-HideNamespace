@@ -1,0 +1,6 @@
+{
+	"name": "shakeepers/hide-namespace",
+	"description": "Fork of HideNamespace extension for MediaWiki",
+	"license": "GPL-2.0",
+	"type": "mediawiki-extension"
+}
